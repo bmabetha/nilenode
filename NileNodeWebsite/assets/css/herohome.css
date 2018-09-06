@@ -2312,7 +2312,7 @@ fieldset[disabled] .btn {
 .btn-light:active,
 .btn-light.active,
 .open .dropdown-toggle.btn-light {
-    color: #fff;
+    color: #46b8da;
     background-color: #000;
     border-color: #000
 }
@@ -4175,7 +4175,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 .footer-nav>li>a:hover,
 .footer-nav>li>a:focus {
-    text-decoration: none
+    text-decoration: none;
+    color: #46b8da; /* edit footer-nav */
 }
 .footer-nav>li.social a {
     background-image: url("../images/social-icons-2X.png");
@@ -7145,7 +7146,7 @@ button.close {
 .hero-inner .hero-static .hero-static-bottom .btn-demo:hover,
 .hero-inner .hero-static .hero-static-bottom .btn-demo:focus {
     background-color: transparent;
-    color: #fff;
+    color: #46b8da; /* edit */
     opacity: 1;
     filter: alpha(opacity=100);
     outline: none
@@ -7283,7 +7284,7 @@ button.close {
     margin-top: -20px;
     background-image: url('../img/backgrounds/prev.png'); /* Edit, put the prev and next icns here*/
     background-repeat: no-repeat;
-    background-size: 250px 140px;
+    background-size: 250px 250px;
     background-position: 0 0;
     image-rendering: optimizeSpeed;
     image-rendering: -o-crisp-edges;
@@ -7439,7 +7440,7 @@ button.close {
 }
 .featurette .btn-light:hover,
 .featurette .btn-light:focus {
-    background-color: #000
+    background-color: #46b8da; /* edit learn more */
 }
 .featurette-divider {
     margin: 30px 0 30px
