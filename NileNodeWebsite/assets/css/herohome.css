@@ -7416,7 +7416,7 @@ button.close {
     }
 }
 .alt {
-    background-color: #e9e9e9;
+    background-color: #FFFFFF; /* edit about background*/
     margin-top: 30px;
     padding: 50px 0
 }
